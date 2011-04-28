@@ -1,0 +1,1 @@
+I keep writing one off pieces of puppet code and really need to start putting reusable portions into module.  At some point I need to try reusing other people's modules, and will maybe play with making them git submodules if I find ones that I can use, but for now I need the education of writing my own.
